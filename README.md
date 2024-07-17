@@ -25,3 +25,12 @@ Built the Logistic Regression, KNN with 5 neighbors, SVC and Decision Tree class
 Fit the models using the training dataset.
 
 Evaluation : 
+Used the test dataset to evaluation prediction of each of these models.
+Generate confusion matrix and accuracy score for each of these models.
+Logistic Regression Accuracy is  89.49987861131342 %
+SVC Accuracy is  88.65015780529255 %
+Decision Tree Regression Accuracy is  84.43797038116048 %
+KNN Accuracy is  88.51663025006069 %
+
+Deployment : 
+Deploy the Logistic regression with Standard Scalar to the production.
