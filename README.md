@@ -34,3 +34,5 @@ KNN Accuracy is  88.51663025006069 %
 
 Deployment : 
 Deploy the Logistic regression with Standard Scalar to the production.
+
+Link to the Notebook : https://github.com/awsRKG/ML-Classifiers/classifiers.ipynb
